@@ -116,3 +116,7 @@ datasets/
 
 N,Sai Deekshith B.Tech CSE (AI) (IDD) Student
 Interested in Quantum Machine Learning & AI Research
+Connect With Me
+ LinkedIn: https://www.linkedin.com/in/sai-deekshith-nagireddi-bbab932b1/
+ GitHub: https://github.com/deekshith967
+ Portfolio: https://portfolio-phi-five-42.vercel.app
